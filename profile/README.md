@@ -1,3 +1,17 @@
 # MIDS 203 - Statistics for Data Science
 
-This is a demo, README.md file that exists at the organization level. We can use this to store links to important repositories, for example, the live sessions, and the notes, and so on. We will just have to remember to update it as things move around.
+This is the GitHub organization for Statistics for Data Science in the School of Information's MIDS program. Welcome! 
+
+## For Students 
+
+- [The Syllabus](https://mids-w203.github.io/syllabus/)
+- [Slides](https://github.com/mids-w203/slides)
+- [Summer 2022 Central](https://github.com/mids-w203/summer_22_central) 
+- [Cheat Sheets](https://github.com/mids-w203/cheat_sheets)
+
+## For Instructors 
+
+- [Instructor Central](https://github.com/mids-w203/instructor_central)
+- [Instructor Private](https://github.com/mids-w203/instructor_private)
+
+Don't worry, if you're a student, you don't have access to the secret stuff. 
