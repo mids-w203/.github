@@ -4,6 +4,7 @@ This is the GitHub organization for Statistics for Data Science in the School of
 
 ## For Students 
 
+- [Fall 2022 Central](https://github.com/mids-w203/fall_22_central)
 - [The Syllabus](https://mids-w203.github.io/syllabus/)
 - [Slides](https://github.com/mids-w203/slides)
 - [Cheat Sheets](https://github.com/mids-w203/cheat_sheets)
