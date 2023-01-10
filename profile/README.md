@@ -13,5 +13,7 @@ This is the GitHub organization for Statistics for Data Science in the School of
 
 - [Instructor Central](https://github.com/mids-w203/instructor_central)
 - [Instructor Private](https://github.com/mids-w203/instructor_private)
+- [Lab 1](https://github.com/mids-w203/lab_1)
+- [Lab 2](https://github.com/mids-w203/lab_2)
 
 Don't worry, if you're a student, you don't have access to the secret stuff. 
