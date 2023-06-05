@@ -7,6 +7,7 @@ This is the GitHub organization for Statistics for Data Science in the School of
 - [Summer 2023 Central](https://github.com/mids-w203/summer_23_central)
 - [Slides](https://github.com/mids-w203/slides)
 - [Cheat Sheets](https://github.com/mids-w203/cheat_sheets)
+- [Practice Problems](https://github.com/mids-w203/practice_problems)
 
 ## For Instructors 
 
