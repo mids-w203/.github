@@ -8,6 +8,7 @@ This is the GitHub organization for Statistics for Data Science in the School of
 - [Slides](https://github.com/mids-w203/slides)
 - [Cheat Sheets](https://github.com/mids-w203/cheat_sheets)
 - [Practice Problems](https://github.com/mids-w203/practice_problems)
+- [Additional Resouces](https://github.com/mids-w203/additional-resources)
 
 ## For Instructors 
 
