@@ -4,7 +4,7 @@ This is the GitHub organization for Statistics for Data Science in the School of
 
 ## For Students 
 
-- [Spring 2025 Central](https://github.com/mids-w203/2025_spring)
+- [Summer 2025 Central](https://github.com/mids-w203/2025_summer)
 - [Slides](https://github.com/mids-w203/slides)
 - [Practice Problems](https://github.com/mids-w203/practice_problems)
 - [Additional Resouces](https://github.com/mids-w203/additional-resources)
