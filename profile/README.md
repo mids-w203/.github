@@ -53,5 +53,6 @@ This is the GitHub organization for Statistics for Data Science in the School of
 - [Live Session Notes](https://github.com/mids-w203/live-session)
 - [Actions](https://github.com/mids-w203/release-action)
 - [In Process Work](https://github.com/mids-w203/applied_programming)
+- [2025 Work with Alex and Rob](https://github.com/mids-w203/2025_summer_development)
   
 Don't worry, if you're a student, you don't have access to the secret stuff. 
