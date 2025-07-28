@@ -7,7 +7,6 @@ This is the GitHub organization for Statistics for Data Science in the School of
 - [Summer 2025 Central](https://github.com/mids-w203/2025_summer)
 - [Slides](https://github.com/mids-w203/slides)
 - [Practice Problems](https://github.com/mids-w203/practice_problems)
-- [Additional Resouces](https://github.com/mids-w203/additional-resources)
 
 <details closed>
   <summary><b>Live Session solutions (you'll have permission to view these a few hours after your live session)</b></summary>
@@ -52,6 +51,7 @@ This is the GitHub organization for Statistics for Data Science in the School of
 - [Lab 2](https://github.com/mids-w203/lab_2)
 - [Live Session Notes](https://github.com/mids-w203/live-session)
 - [Actions](https://github.com/mids-w203/release-action)
+- [Additional Resouces](https://github.com/mids-w203/additional-resources)
 - [In Process Work](https://github.com/mids-w203/applied_programming)
 - [2025 Work with Alex and Rob](https://github.com/mids-w203/2025_summer_development)
   
