@@ -34,6 +34,7 @@ This is the GitHub organization for Statistics for Data Science in the School of
 >- [HW-2](https://github.com/mids-w203/unit_02_hw_sol)
 >- [HW-3](https://github.com/mids-w203/unit_03_hw_sol)
 >- [HW-5](https://github.com/mids-w203/unit_05_hw_sol)
+>- [HW-5](https://github.com/mids-w203/unit_06_hw_sol)
 >- [HW-7](https://github.com/mids-w203/unit_07_hw_sol)
 >- [HW-9](https://github.com/mids-w203/unit_09_hw_sol)
 >- [HW-10](https://github.com/mids-w203/unit_10_hw_sol)
